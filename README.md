@@ -1,5 +1,5 @@
 # Tugas-Besar-PWEB
-PWeb 02
+Tugas besar Pemrograman Web kelas 02 tahun 2021
 Kelompok SI 17
 
 1.Wahyu Febrian Pratama-1711521005
